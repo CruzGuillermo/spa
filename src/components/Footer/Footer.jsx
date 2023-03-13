@@ -8,7 +8,7 @@ function Footer() {
           © 2023 Copyright:
           <a
             class="text-neutral-800 dark:text-neutral-400"
-            href="https://tailwind-elements.com/"
+            href="https://spa-website-cruzguillermo.vercel.app/"
             > & All reservet</a
           >
         </div>
